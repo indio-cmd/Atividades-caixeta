@@ -1,0 +1,24 @@
+{
+  "name": "atividades-caixeta",
+  "version": "1.0.0",
+  "description": "ativdades",
+  "homepage": "https://github.com/indio-cmd/Atividades-caixeta#readme",
+  "bugs": {
+    "url": "https://github.com/indio-cmd/Atividades-caixeta/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indio-cmd/Atividades-caixeta.git"
+  },
+  "license": "ISC",
+  "author": "kaua",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
